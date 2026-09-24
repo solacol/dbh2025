@@ -16,6 +16,7 @@ fffff805`1f484e28  00000000`00000000 00000000`00000000
 fffff805`1f484e38  ffffc28e`874a4080 ffff4267`6694881a
 fffff805`1f484e48  00000000`00400a02 ffffffff`ffffffff
 ```
+- Category: `misc`/`rev`
 - Author(s): `solacol`
 - Estimated difficulty: `easy` (very low hanging fruit)
 - [Flag (see write-up):](/quals/pump/challenge/solution) `DBH{0n3_NIce_lov3Ly_dUmpl1Ng}`

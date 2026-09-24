@@ -2,6 +2,7 @@
 - Title: `ET`
 - [Provide:](/finals/et/challenge/provide) `evidence.tar.gz`
 - Checksum (md5sum): `ecff3aa9309c36a56375bd5752892f7c`
+- Category: `forensic`/`rev`
 - Author(s): [`A. F.`](mailto:af@nio.lu), `solacol`
 - Estimated difficulty: `medium` to `hard`
 - [Flag (see write-up):](/finals/et/challenge/solution) `DBH{jU$t_b4s1c_reV3rs1ng_4surE}`
